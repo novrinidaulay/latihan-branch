@@ -1,2 +1,2 @@
 # latihan-branch
-Latihan membuat branch di github
+Ini adalah Latihan membuat branch di github
